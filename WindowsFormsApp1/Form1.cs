@@ -193,7 +193,6 @@ namespace WindowsFormsApp1
             string s = (sender as Button).Text;
             result_lbl.Text += s;
             CorrectInfo();
-            MessageBox.Show("ААААААА");
         }
     }
 }
