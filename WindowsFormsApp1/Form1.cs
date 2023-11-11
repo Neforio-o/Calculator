@@ -45,6 +45,7 @@ namespace WindowsFormsApp1
             return true;
 
         }
+
         private void FreeInfo()
         {
             Sum.Enabled = true; 
