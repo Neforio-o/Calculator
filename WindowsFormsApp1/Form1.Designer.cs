@@ -284,9 +284,9 @@
             this.result_lbl.Location = new System.Drawing.Point(12, 26);
             this.result_lbl.Name = "result_lbl";
             this.result_lbl.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.result_lbl.Size = new System.Drawing.Size(64, 29);
+            this.result_lbl.Size = new System.Drawing.Size(92, 29);
             this.result_lbl.TabIndex = 20;
-            this.result_lbl.Text = "krab";
+            this.result_lbl.Text = "krab_1";
             // 
             // Dot
             // 
